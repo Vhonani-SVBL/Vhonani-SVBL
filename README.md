@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Banchlandstyle@gmail.com**
 
-- ⚡ Fun fact **I am musician**
+- ⚡ Fun fact **I can programme instrumentals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
