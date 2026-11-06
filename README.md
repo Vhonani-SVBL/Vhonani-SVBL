@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Administrations & JAVA**
 
-- 💬 Ask me about **HTML,CSS, Arduino, Platform IO & C#**
+- 💬 Ask me about **HTML5,CSS, Arduino, Platform IO & C#**
 
 - 📫 How to reach me **Banchlandstyle@gmail.com**
 
